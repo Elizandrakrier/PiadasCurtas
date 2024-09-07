@@ -6,6 +6,9 @@ Descrição
 
 Este projeto é uma página web simples, construída com HTML, CSS e JavaScript, que apresenta uma coleção de piadas curtas. O objetivo é proporcionar momentos de descontração aos usuários.
 
+Vercel
+https://piadas-curtas-alura-gemini.vercel.app
+
 Tecnologias Utilizadas
 
 HTML: Estrutura da página.
