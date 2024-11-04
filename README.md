@@ -37,9 +37,9 @@ Crie um novo branch para sua feature.
 Faça suas alterações e commit.
 Envie um pull request.
 
-Autores
+Autora
 
-Seu Nome - Elizandra Krier
+Elizandra Krier
 
 Bugs:
 Para reportar um bug, por favor, crie uma nova issue.
